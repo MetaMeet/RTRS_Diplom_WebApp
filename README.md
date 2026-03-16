@@ -32,5 +32,5 @@ Frontend: HTML, CSS
 
 Выполнить миграции: python manage.py migrate
 
-Запустить сервер: python manage.py runserver
+Запустить сервер: py manage.py runserver
 
